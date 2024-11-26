@@ -38,6 +38,5 @@ class MainActivity : AppCompatActivity() {
         }else {
             Toast.makeText(this, "No eres mayor de edad", Toast.LENGTH_SHORT).show()
         }
-
     }
 }

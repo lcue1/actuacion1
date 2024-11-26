@@ -18,7 +18,6 @@
         android:textSize="30dp"
         android:background="#B40000"
         android:textColor="#ffff"
-
         android:textAlignment="center"
 
      />
